@@ -1,7 +1,7 @@
 {
   "name": "folderrouter",
   "version": "1.0.0",
-  "description": "Folder Router Structure for Express",
+  "description": "Simple Structured Folder Router for Express JS",
   "main": "folderRouter.js",
   "author": {
     "name": "co3moz"
