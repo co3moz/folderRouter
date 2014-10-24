@@ -1,0 +1,14 @@
+{
+  "name": "folderrouter",
+  "version": "1.0.0",
+  "description": "Folder Router Structure for Express",
+  "main": "folderRouter.js",
+  "author": {
+    "name": "co3moz"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "*"
+  },
+  "readmeFilename": "ReadMe.md"
+}
