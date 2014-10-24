@@ -28,7 +28,22 @@ function run(request, response, out, route) {
 }
 ```
 
-inside of /route/add/ folder, Index.js
+##### OnePlusOne.js
+``` js
+/*
+ * route.where: /opo
+ * route.method: get
+ * route.execute: run
+ */
+
+
+function run(request, response, out, route) {
+	response.send("2");
+}
+```
+
+#### inside of /routes/add/ folder
+##### Index.js
 ``` js
 /*
  * route.where: /
